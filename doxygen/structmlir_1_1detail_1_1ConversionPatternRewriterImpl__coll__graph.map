@@ -1,0 +1,17 @@
+<map id="mlir::detail::ConversionPatternRewriterImpl" name="mlir::detail::ConversionPatternRewriterImpl">
+<area shape="rect" id="node3" title="This class provides a simple interface for converting the types of block arguments. " alt="" coords="600,83,787,109"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l OperationTransactionState, 4 \&gt;" alt="" coords="579,134,808,175"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="159,233,307,274"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::BlockArgument, 4 \&gt;" alt="" coords="598,199,789,241"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l unsigned, 4 \&gt;" alt="" coords="619,265,767,306"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l BlockAction, 4 \&gt;" alt="" coords="619,330,767,371"/>
+<area shape="rect" id="node8" title="This class wraps a BlockAndValueMapping to provide recursive lookup functionality, i.e. " alt="" coords="614,447,773,473"/>
+<area shape="rect" id="node9" href="$classmlir_1_1TypeConverter.html" title="Type conversion class. " alt="" coords="157,504,308,531"/>
+<area shape="rect" id="node17" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="606,560,781,587"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; mlir\l::Operation *\&gt;" alt="" coords="612,611,775,653"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; T,\l Vector, Set \&gt;" alt="" coords="159,619,307,661"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l mlir::Operation *, 1 \&gt;" alt="" coords="610,729,777,770"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l T, N \&gt;" alt="" coords="159,729,306,770"/>
+<area shape="rect" id="node18" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="157,568,308,595"/>
+<area shape="rect" id="node19" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,568,108,595"/>
+</map>

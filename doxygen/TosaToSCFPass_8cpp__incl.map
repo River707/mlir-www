@@ -1,0 +1,31 @@
+<map id="lib/Conversion/TosaToSCF/TosaToSCFPass.cpp" name="lib/Conversion/TosaToSCF/TosaToSCFPass.cpp">
+<area shape="rect" id="node2" href="$lib_2Conversion_2PassDetail_8h.html" title="../PassDetail.h" alt="" coords="1955,102,2069,129"/>
+<area shape="rect" id="node14" href="$TosaToSCF_8h.html" title="mlir/Conversion/TosaToSCF\l/TosaToSCF.h" alt="" coords="1734,95,1930,136"/>
+<area shape="rect" id="node15" href="$Dialect_2SCF_2SCF_8h.html" title="mlir/Dialect/SCF/SCF.h" alt="" coords="1985,370,2149,397"/>
+<area shape="rect" id="node21" href="$Dialect_2Tensor_2IR_2Tensor_8h.html" title="mlir/Dialect/Tensor\l/IR/Tensor.h" alt="" coords="496,363,640,404"/>
+<area shape="rect" id="node27" href="$TosaOps_8h.html" title="mlir/Dialect/Tosa/IR\l/TosaOps.h" alt="" coords="2441,273,2589,315"/>
+<area shape="rect" id="node34" href="$include_2mlir_2Dialect_2Tosa_2Transforms_2PassDetail_8h.html" title="mlir/Dialect/Tosa/Transforms\l/PassDetail.h" alt="" coords="1273,95,1479,136"/>
+<area shape="rect" id="node36" href="$Dialect_2Tosa_2Transforms_2Passes_8h.html" title="mlir/Dialect/Tosa/Transforms\l/Passes.h" alt="" coords="1503,95,1710,136"/>
+<area shape="rect" id="node37" href="$PatternMatch_8h.html" title="mlir/IR/PatternMatch.h" alt="" coords="1877,281,2043,307"/>
+<area shape="rect" id="node40" href="$PassManager_8h.html" title="mlir/Pass/PassManager.h" alt="" coords="3375,370,3556,397"/>
+<area shape="rect" id="node46" href="$DialectConversion_8h.html" title="mlir/Transforms/DialectConversion.h" alt="" coords="2664,102,2923,129"/>
+<area shape="rect" id="node50" href="$GreedyPatternRewriteDriver_8h.html" title="mlir/Transforms/GreedyPattern\lRewriteDriver.h" alt="" coords="2144,95,2365,136"/>
+<area shape="rect" id="node3" href="$include_2mlir_2Pass_2Pass_8h.html" title="mlir/Pass/Pass.h" alt="" coords="1543,191,1670,218"/>
+<area shape="rect" id="node4" href="$BuiltinOps_8h.html" title="mlir/IR/BuiltinOps.h" alt="" coords="1329,370,1477,397"/>
+<area shape="rect" id="node7" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="2118,616,2245,643"/>
+<area shape="rect" id="node11" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="2835,459,3039,486"/>
+<area shape="rect" id="node5" href="$CastInterfaces_8h.html" title="mlir/Interfaces/CastInterfaces.h" alt="" coords="908,459,1135,486"/>
+<area shape="rect" id="node10" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="1383,452,1569,493"/>
+<area shape="rect" id="node6" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="1981,541,2144,568"/>
+<area shape="rect" id="node8" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="2784,691,2979,717"/>
+<area shape="rect" id="node9" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="2017,765,2162,792"/>
+<area shape="rect" id="node16" href="$Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="2422,459,2557,486"/>
+<area shape="rect" id="node17" href="$ControlFlowInterfaces_8h.html" title="mlir/Interfaces/ControlFlow\lInterfaces.h" alt="" coords="1159,452,1358,493"/>
+<area shape="rect" id="node18" href="$LoopLikeInterface_8h.html" title="mlir/Interfaces/LoopLike\lInterface.h" alt="" coords="2219,452,2397,493"/>
+<area shape="rect" id="node22" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="641,541,801,568"/>
+<area shape="rect" id="node23" href="$OpImplementation_8h.html" title="mlir/IR/OpImplementation.h" alt="" coords="681,459,884,486"/>
+<area shape="rect" id="node28" href="$QuantOps_8h.html" title="mlir/Dialect/Quant\l/QuantOps.h" alt="" coords="2275,363,2416,404"/>
+<area shape="rect" id="node29" href="$Traits_8h.html" title="mlir/Dialect/Traits.h" alt="" coords="2440,370,2589,397"/>
+<area shape="rect" id="node41" href="$Timing_8h.html" title="mlir/Support/Timing.h" alt="" coords="3115,459,3277,486"/>
+<area shape="rect" id="node47" href="$FrozenRewritePatternSet_8h.html" title="mlir/Rewrite/FrozenRewrite\lPatternSet.h" alt="" coords="2157,184,2353,225"/>
+</map>

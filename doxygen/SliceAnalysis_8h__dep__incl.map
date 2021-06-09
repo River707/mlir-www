@@ -1,0 +1,9 @@
+<map id="include/mlir/Analysis/SliceAnalysis.h" name="include/mlir/Analysis/SliceAnalysis.h">
+<area shape="rect" id="node2" href="$AffineAnalysis_8cpp.html" title="lib/Analysis/AffineAnalysis.cpp" alt="" coords="5,109,227,136"/>
+<area shape="rect" id="node3" href="$SliceAnalysis_8cpp.html" title="lib/Analysis/SliceAnalysis.cpp" alt="" coords="251,109,466,136"/>
+<area shape="rect" id="node4" href="$AffineLoopInvariantCodeMotion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineLoopInvariant\lCodeMotion.cpp" alt="" coords="491,95,720,151"/>
+<area shape="rect" id="node5" href="$ComprehensiveBufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ComprehensiveBufferize.cpp" alt="" coords="745,102,1034,143"/>
+<area shape="rect" id="node6" href="$Hoisting_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Hoisting.cpp" alt="" coords="1058,102,1241,143"/>
+<area shape="rect" id="node7" href="$Vectorization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Vectorization.cpp" alt="" coords="1265,102,1479,143"/>
+<area shape="rect" id="node8" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="1503,102,1651,143"/>
+</map>
